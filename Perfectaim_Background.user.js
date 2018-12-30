@@ -43,6 +43,16 @@ body {
 	padding: 20px !important;
 	background: #292c31d1 !important;
 }
+
+.postcontainer{
+	padding: 20px !important;
+	background: #292c31d1 !important;
+}
+
+.post-card{
+	background: #292c31d1 !important;
+}
+
 .fixed-header {
 	background-color: #292c31d1 !important;
     background: url('https://i.imgur.com/WzOX3EE.jpg') no-repeat center center fixed !important;
