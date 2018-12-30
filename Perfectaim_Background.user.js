@@ -18,46 +18,38 @@ $(function() { // this removes the 2 scrolling banners from the member page
 
 
 GM_addStyle ( `
-body { // make the body transparent
+body {
 	background-color: #292c31d1 !important;
 }
-
-#header .container{ // to make the header look cleaner
+#header .container{
 	padding: 0px !important;
 }
-
-.navbar{ // navigation bar
+.navbar{
 	background-color: #292c31d1 !important;
 }
-
-.card{ // all the cards on member screen
+.card{
 	background-color: #22252a00 !important;
 }
-
-#header{ // header
+#header{
 	background: #292c31 !important;
 }
-
-.forum-post{ // forum posts
+.forum-post{
 	background-color: #22252a00 !important;
 	border-style: solid !important;
 	border-width: 2px 10px 2px 10px !important;
 	border-color: #00000052;
 }
-
-.container { // all text-containing boxes get a padding
+.container {
 	padding: 20px !important;
 	background: #292c31d1 !important;
 }
-
-.fixed-header { // background replacer
+.fixed-header {
 	background-color: #292c31d1 !important;
-    background: url('https://i.ibb.co/BTnRKtw/PABackground2.png') no-repeat center center fixed !important;
+    background: url('https://i.imgur.com/WzOX3EE.jpg') no-repeat center center fixed !important;
     -webkit-background-size: auto !important;
     -moz-background-size: auto !important;
     -o-background-size: auto !important;
     background-size: auto !important;
-
     -webkit-background-repeat: repeat !important;
     -moz-background-repeat: repeat !important;
     -o-background-repeat: repeat !important;
