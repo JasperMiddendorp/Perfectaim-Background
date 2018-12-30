@@ -8,4 +8,7 @@ Second, make a new Tampermonkey/Greasemonkey script.
 
 Third, copy paste the lines from <a href="https://github.com/Jasperkiller1/Perfectaim-Background/blob/master/Perfectaim_Background.user.js">the document</a> into the self-made script.
 
+TIP: Make sure when you copy pasted it, go to settings and run at start-body
+<img src="https://i.imgur.com/KIVC6rY.png">
+
 Finally, enjoy the new Perfectaim theme.
