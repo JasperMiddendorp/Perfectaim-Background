@@ -44,6 +44,10 @@ body {
 	background: #292c31d1 !important;
 }
 
+.bg-secondary {
+	background-color: #00000000 !important;
+}
+
 .postcontainer{
 	padding: 20px !important;
 	background: #292c31d1 !important;
