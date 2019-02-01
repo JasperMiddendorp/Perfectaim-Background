@@ -38,10 +38,6 @@ body {
 	background-color: #292c31d1 !important;
 }
 
-.someclass{
-    color: red !important;
-}
-
 .icon-flow{filter: drop-shadow(16px 16px 10px rgba(0,0,0,0.9));;position:fixed;right:5px;bottom:5px;z-index:9999;}
 .icon-flow a.totop{background:url(https://i.imgur.com/YVZjSSi.png) no-repeat; z-index:99999;position:relative;display:block;width:90px;height:59px;}
 
