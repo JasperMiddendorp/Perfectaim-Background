@@ -60,7 +60,7 @@ body {
 	border-color: #00000052;
 }
 
-.col-lg-10 span,p,font,h1,h2,h3,h4,h5,h6{
+.col-lg-10 span:not(.badge),p,font,h1,h2,h3,h4,h5,h6{
 	color: white !important;
     background-color: rgba(0, 0, 0, 0) !important;
     font-family: Roboto !important;
