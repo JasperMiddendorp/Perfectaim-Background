@@ -12,8 +12,8 @@
 var $ = window.jQuery;
 
 $(function() { // this removes the 2 scrolling banners from the member page
-    $('#cs').remove();
-    $('#csads').remove();
+    $('#csads').remove(); // Removes Spam carousel
+    $('#cs').remove(); // Removes Member of the week carousel
     // Changes "Atmos" into "BigDickHaver69"
     //$("body").children().each(function () {
     //    $(this).html( $(this).html().replace(/Atmos/g,"BigDickHaver69") );
@@ -49,6 +49,9 @@ body {
 }
 .card{
 	background-color: #22252a00 !important;
+}
+#convoblockcontainer{
+    max-height: 1000px !important;
 }
 #header{
 	background: #292c31 !important;
